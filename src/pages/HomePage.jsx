@@ -60,7 +60,7 @@ function HomePage() {
               <h1 className="text-3xl lg:text-8xl">M</h1>
               <h1 className="text-3xl lg:text-8xl">I</h1>
               <h1 className="text-3xl lg:text-8xl">N</h1>
-              <h1 className="text-3xl lg:text-8xl">E</h1>
+              <h1 className="text-3xl lg:text-8xl">H</h1>
             </div>
           </div>
 
