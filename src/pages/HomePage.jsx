@@ -57,7 +57,7 @@ function HomePage() {
         <div className="loading-animation">
           <div className="preloader fixed top-0 left-0 w-full h-full flex justify-center items-center bg-blackPreloading overflow-hidden z-10">
             <div className="text-container flex flex-row overflow-hidden gap-[2px] text-white opacity-0">
-              <h1 className="text-3xl lg:text-8xl">S</h1>
+              <h1 className="text-3xl lg:text-8xl">M</h1>
               <h1 className="text-3xl lg:text-8xl">O</h1>
               <h1 className="text-3xl lg:text-8xl">R</h1>
               <h1 className="text-3xl lg:text-8xl">E</h1>
