@@ -59,7 +59,7 @@ function HomePage() {
             <div className="text-container flex flex-row overflow-hidden gap-[2px] text-white opacity-0">
               <h1 className="text-3xl lg:text-8xl">M</h1>
               <h1 className="text-3xl lg:text-8xl">I</h1>
-              <h1 className="text-3xl lg:text-8xl">R</h1>
+              <h1 className="text-3xl lg:text-8xl">N</h1>
               <h1 className="text-3xl lg:text-8xl">E</h1>
             </div>
           </div>
